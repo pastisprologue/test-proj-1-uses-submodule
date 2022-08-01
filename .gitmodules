@@ -1,0 +1,6 @@
+[submodule "src"]
+	path = src
+	url = https://github.com/pastisprologue/test-submodule.git
+[submodule "src2"]
+	path = src2
+	url = https://github.com/pastisprologue/test-submodule.git
